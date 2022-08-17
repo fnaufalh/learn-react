@@ -102,3 +102,11 @@ h3 {
   line-height: 1rem;
   text-decoration: none;
 }
+
+.wrapper-overview:not(:last-child) {
+  margin-bottom: 1.5rem;
+}
+
+.desc {
+  margin-bottom: 1rem;
+}
